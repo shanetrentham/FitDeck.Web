@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "trVnSL7ewuwKkVNATQ61f96yWgWhPII8eJgtRj/LqOP86fVaowqaMNMIh+ctxEpXeppTOJ2+ux3g0bPknG27VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\FitDeck.Web\\FitDeck\\FitDeck.Services\\FitDeck.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.2\\microsoft.identitymodel.jsonwebtokens.6.10.2.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.2\\microsoft.identitymodel.logging.6.10.2.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.2\\microsoft.identitymodel.tokens.6.10.2.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.2\\system.identitymodel.tokens.jwt.6.10.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

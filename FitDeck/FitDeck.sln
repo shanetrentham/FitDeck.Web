@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FitDeck.Web", "FitDeck.Web\FitDeck.Web.csproj", "{1ED925D8-BF44-436D-A518-F9136E86A7DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FitDeck.Models", "FitDeck.Models\FitDeck.Models.csproj", "{8B8C0BE4-C7E4-4B35-BD0F-716647D175FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FitDeck.Repository", "FitDeck.Repository\FitDeck.Repository.csproj", "{062C73B7-5DAE-464B-9360-C61721A47789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitDeck.Services", "FitDeck.Services\FitDeck.Services.csproj", "{782192AF-7C65-4ADF-B6C7-36EAD4AF6DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitDeck.Identity", "FitDeck.Identity\FitDeck.Identity.csproj", "{84120AC2-160D-4533-8A5A-B8B74DB04B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED925D8-BF44-436D-A518-F9136E86A7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED925D8-BF44-436D-A518-F9136E86A7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED925D8-BF44-436D-A518-F9136E86A7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED925D8-BF44-436D-A518-F9136E86A7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8C0BE4-C7E4-4B35-BD0F-716647D175FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8C0BE4-C7E4-4B35-BD0F-716647D175FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8C0BE4-C7E4-4B35-BD0F-716647D175FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8C0BE4-C7E4-4B35-BD0F-716647D175FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062C73B7-5DAE-464B-9360-C61721A47789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062C73B7-5DAE-464B-9360-C61721A47789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062C73B7-5DAE-464B-9360-C61721A47789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062C73B7-5DAE-464B-9360-C61721A47789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782192AF-7C65-4ADF-B6C7-36EAD4AF6DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782192AF-7C65-4ADF-B6C7-36EAD4AF6DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782192AF-7C65-4ADF-B6C7-36EAD4AF6DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782192AF-7C65-4ADF-B6C7-36EAD4AF6DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84120AC2-160D-4533-8A5A-B8B74DB04B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84120AC2-160D-4533-8A5A-B8B74DB04B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84120AC2-160D-4533-8A5A-B8B74DB04B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84120AC2-160D-4533-8A5A-B8B74DB04B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {941144BA-483D-4486-9FCC-AB25A1091A45}
+	EndGlobalSection
+EndGlobal

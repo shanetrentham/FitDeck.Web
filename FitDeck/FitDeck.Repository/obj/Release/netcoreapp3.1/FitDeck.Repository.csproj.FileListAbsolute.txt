@@ -1,0 +1,12 @@
+C:\Users\shane\OneDrive\Documents\Personal_Files\FitDeck.Web\FitDeck\FitDeck.Repository\bin\Release\netcoreapp3.1\FitDeck.Repository.deps.json
+C:\Users\shane\OneDrive\Documents\Personal_Files\FitDeck.Web\FitDeck\FitDeck.Repository\bin\Release\netcoreapp3.1\FitDeck.Repository.dll
+C:\Users\shane\OneDrive\Documents\Personal_Files\FitDeck.Web\FitDeck\FitDeck.Repository\bin\Release\netcoreapp3.1\FitDeck.Repository.pdb
+C:\Users\shane\OneDrive\Documents\Personal_Files\FitDeck.Web\FitDeck\FitDeck.Repository\bin\Release\netcoreapp3.1\FitDeck.Models.dll
+C:\Users\shane\OneDrive\Documents\Personal_Files\FitDeck.Web\FitDeck\FitDeck.Repository\bin\Release\netcoreapp3.1\FitDeck.Models.pdb
+C:\Users\shane\OneDrive\Documents\Personal_Files\FitDeck.Web\FitDeck\FitDeck.Repository\obj\Release\netcoreapp3.1\FitDeck.Repository.csprojAssemblyReference.cache
+C:\Users\shane\OneDrive\Documents\Personal_Files\FitDeck.Web\FitDeck\FitDeck.Repository\obj\Release\netcoreapp3.1\FitDeck.Repository.AssemblyInfoInputs.cache
+C:\Users\shane\OneDrive\Documents\Personal_Files\FitDeck.Web\FitDeck\FitDeck.Repository\obj\Release\netcoreapp3.1\FitDeck.Repository.AssemblyInfo.cs
+C:\Users\shane\OneDrive\Documents\Personal_Files\FitDeck.Web\FitDeck\FitDeck.Repository\obj\Release\netcoreapp3.1\FitDeck.Repository.csproj.CoreCompileInputs.cache
+C:\Users\shane\OneDrive\Documents\Personal_Files\FitDeck.Web\FitDeck\FitDeck.Repository\obj\Release\netcoreapp3.1\FitDeck.Repository.csproj.CopyComplete
+C:\Users\shane\OneDrive\Documents\Personal_Files\FitDeck.Web\FitDeck\FitDeck.Repository\obj\Release\netcoreapp3.1\FitDeck.Repository.dll
+C:\Users\shane\OneDrive\Documents\Personal_Files\FitDeck.Web\FitDeck\FitDeck.Repository\obj\Release\netcoreapp3.1\FitDeck.Repository.pdb
